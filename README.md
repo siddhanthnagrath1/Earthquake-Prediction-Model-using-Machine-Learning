@@ -1,0 +1,1 @@
+# Earthquake-Prediction-Model-using-Machine-Learning
